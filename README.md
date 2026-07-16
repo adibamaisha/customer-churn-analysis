@@ -4,12 +4,6 @@ End-to-end machine learning project predicting customer churn with 84.3% ROC-AUC
 
 ---
 
-## 📄 Full Report
-
-**[Download PDF Report](customer_churn_analysis_report.pdf)**
-
----
-
 ## 🛠️ Skills & Tools
 
 | Category | Tools |
